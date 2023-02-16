@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (https://fritzing.org/) -->
+
+<svg
+   y="0in"
+   viewBox="0 0 14.450219 20.856895"
+   version="1.2"
+   x="0in"
+   width="0.20069705in"
+   height="0.28967923in"
+   id="svg4400"
+   sodipodi:docname="T-Plug-Fem-Test_schem.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4404" />
+  <sodipodi:namedview
+     id="namedview4402"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="in"
+     showgrid="true"
+     inkscape:zoom="14.365319"
+     inkscape:cx="9.8501121"
+     inkscape:cy="26.626628"
+     inkscape:window-width="1920"
+     inkscape:window-height="1121"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4400">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4523"
+       originx="-0.25200399"
+       originy="4.2095754" />
+  </sodipodi:namedview>
+  <g
+     partID="855920530"
+     id="g4398"
+     transform="translate(-0.252004,3.9485406)">
+    <g
+       id="schematic">
+      <g
+         transform="matrix(13.8891,0,0,13.8891,0.252004,-3.22476)"
+         id="g4380">
+        <polyline
+           fill="none"
+           stroke-linejoin="round"
+           id="polyline6"
+           stroke-linecap="round"
+           points="1.0152,0.400104,0.714816,0.2592,1.0152,0.118296"
+           stroke="#000000"
+           stroke-width="0.0504" />
+      </g>
+      <line
+         fill="none"
+         x2="5.0560899"
+         stroke-linejoin="round"
+         y2="0.37529996"
+         id="line"
+         stroke-linecap="round"
+         gorn="0.0.3"
+         x1="10.3622"
+         y1="0.37529996"
+         stroke="#000000"
+         stroke-width="0.700012" />
+      <text
+         fill="#8c8c8c"
+         y="-1.1668119"
+         font-family="'Droid Sans'"
+         class="text"
+         id="text9"
+         x="3.4575183"
+         font-size="2.50004px"
+         stroke="none"
+         stroke-width="0"
+         text-anchor="middle"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.00002px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">-</text>
+      <g
+         transform="matrix(13.8891,0,0,13.8891,0.252004,-1.29302)"
+         id="g4385">
+        <polyline
+           fill="none"
+           stroke-linejoin="round"
+           id="polyline13"
+           stroke-linecap="round"
+           points="1.0152,0.918504,0.714816,0.7776,1.0152,0.636696"
+           stroke="#000000"
+           stroke-width="0.0504"
+           transform="translate(0,0.36677784)" />
+      </g>
+      <line
+         fill="none"
+         x2="5.0560899"
+         stroke-linejoin="round"
+         y2="14.5666"
+         id="line15"
+         stroke-linecap="round"
+         gorn="0.0.8"
+         x1="10.3622"
+         y1="14.5666"
+         stroke="#000000"
+         stroke-width="0.700012" />
+      <text
+         fill="#8c8c8c"
+         y="13.059262"
+         font-family="'Droid Sans'"
+         class="text"
+         id="text17"
+         x="3.4575183"
+         font-size="2.50004px"
+         stroke="none"
+         stroke-width="0"
+         text-anchor="middle"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.00002px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">+</text>
+      <line
+         fill="none"
+         x2="7.5981302"
+         stroke-linejoin="round"
+         y2="0.37529996"
+         id="connector0pin"
+         stroke-linecap="round"
+         gorn="0.0.0"
+         x1="0.60201001"
+         y1="0.37529996"
+         stroke="#000000"
+         stroke-width="0.700012" />
+      <g
+         fill="none"
+         y="2.21104"
+         id="connector0terminal"
+         gorn="0.0.1"
+         x="0"
+         width="0.546009"
+         height="0.208004"
+         stroke-width="1.00002"
+         transform="translate(0,-1.93174)" />
+      <line
+         fill="none"
+         x2="7.5981302"
+         stroke-linejoin="round"
+         y2="14.601375"
+         id="connector1pin"
+         stroke-linecap="round"
+         gorn="0.0.5"
+         x1="0.60201001"
+         y1="14.601375"
+         stroke="#000000"
+         stroke-width="0.700012" />
+      <g
+         fill="none"
+         y="9.41116"
+         id="connector1terminal"
+         gorn="0.0.6"
+         x="0"
+         width="0.546009"
+         height="0.208004"
+         stroke-width="1.00002"
+         transform="translate(0,5.0942141)" />
+      <line
+         fill="none"
+         x2="7.5981302"
+         stroke-linejoin="round"
+         y2="0.37529996"
+         id="connector2pin"
+         stroke-linecap="round"
+         gorn="0.0.0"
+         x1="0.60201001"
+         y1="0.37529996"
+         stroke="none"
+         stroke-width="0.700012" />
+      <g
+         fill="none"
+         y="2.21104"
+         id="connector2terminal"
+         gorn="0.0.1"
+         x="0"
+         width="0.546009"
+         height="0.208004"
+         stroke-width="1.00002"
+         transform="translate(0,-1.93174)" />
+      <line
+         fill="none"
+         x2="7.5981302"
+         stroke-linejoin="round"
+         y2="14.601375"
+         id="connector3pin"
+         stroke-linecap="round"
+         gorn="0.0.5"
+         x1="0.60201001"
+         y1="14.601375"
+         stroke="none"
+         stroke-width="0.700012" />
+      <g
+         fill="none"
+         y="9.41116"
+         id="connector3terminal"
+         gorn="0.0.6"
+         x="0"
+         width="0.546009"
+         height="0.208004"
+         stroke-width="1.00002"
+         transform="translate(0,5.0942141)" />
+    </g>
+  </g>
+</svg>

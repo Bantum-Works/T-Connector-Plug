@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (https://fritzing.org/) -->
+
+<svg
+   viewBox="0 0 54.141725 32.314956"
+   version="1.2"
+   width="19.1mm"
+   height="11.4mm"
+   y="0in"
+   x="0in"
+   id="svg602"
+   sodipodi:docname="T-Plug-Male-Test_bb.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs606" />
+  <sodipodi:namedview
+     id="namedview604"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="16.53544"
+     inkscape:cx="36.860223"
+     inkscape:cy="23.253085"
+     inkscape:window-width="1920"
+     inkscape:window-height="1121"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g600">
+    <inkscape:grid
+       type="xygrid"
+       id="grid712"
+       originx="0"
+       originy="0.090685203" />
+  </sodipodi:namedview>
+  <g
+     partID="855922410"
+     id="g600"
+     transform="translate(0,0.27212043)">
+    <g
+       id="breadboard"
+       gorn="0.3">
+      <g
+         transform="rotate(-90,-0.06803573,-0.06803573)"
+         id="g408">
+        <image
+           id="image1806"
+           opacity="0.273121"
+           width="334.64426"
+           height="149.60786"
+           y="526.5675"
+           x="-401.24115"
+           href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAacAAAABCAYAAAB63WHfAAAABHNCSVQICAgIfAhkiAAAAKRJREFU OI3t1LEOwVAUxvF/JVxXo+wSo02Nti5WbyCxeAOvYzF4hM4epCG5hoZoEyltpQsGEtcLtIP7W87J yRm+5RzLX82fXaeJLQXuaECt7wEuX3dgDyiqVQc6gPOpFqAgVoSBIrnm3LKC3SFitlxXmNP4Z9vN Als2aEnBcDIG4QE9bSPmfU+RNpuWmtEwyudrfZvfX36ChyINFMfwTJoVXJKcF9nxKs10FI84AAAA AElFTkSuQmCC" />
+      </g>
+      <g
+         transform="rotate(-90,-0.06803573,-0.06803573)"
+         id="g423">
+        <image
+           id="image1806-6"
+           opacity="0.273121"
+           width="334.64426"
+           height="299.25916"
+           y="0.44713709"
+           x="-399.46152"
+           href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAacAAAABCAYAAAB63WHfAAAABHNCSVQICAgIfAhkiAAAAKRJREFU OI3t1LEOwVAUxvF/JVxXo+wSo02Nti5WbyCxeAOvYzF4hM4epCG5hoZoEyltpQsGEtcLtIP7W87J yRm+5RzLX82fXaeJLQXuaECt7wEuX3dgDyiqVQc6gPOpFqAgVoSBIrnm3LKC3SFitlxXmNP4Z9vN Als2aEnBcDIG4QE9bSPmfU+RNpuWmtEwyudrfZvfX36ChyINFMfwTJoVXJKcF9nxKs10FI84AAAA AElFTkSuQmCC" />
+      </g>
+      <g
+         transform="rotate(180,0,-0.06803573)"
+         id="g438">
+        <rect
+           stroke-width="1.20254"
+           fill="#ffcc00"
+           id="rect437-3"
+           width="10.8645"
+           height="11.964"
+           y="-16.8661"
+           gorn="0.3.2.0.0.0.0.0.0"
+           x="-48.6917" />
+      </g>
+      <g
+         transform="matrix(-1,6.488758e-6,-1.0599951e-6,-1,0,-0.13607145)"
+         id="g453"
+         style="fill:#808080;fill-opacity:1;stroke:#7b7b7b;stroke-width:1.13386;stroke-dasharray:none;stroke-opacity:1">
+        <ellipse
+           ry="2.98106"
+           stroke-width="1"
+           fill="#ff999999"
+           id="path18402-5-4"
+           rx="5.32408"
+           cy="-10.76258"
+           gorn="0.3.3.0.0.0.0.0.0"
+           cx="-48.283058"
+           stroke="#7b7b7b"
+           style="fill:#808080;fill-opacity:1;stroke:#7b7b7b;stroke-width:1.13386;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         transform="rotate(180,0,-0.06803573)"
+         id="g468">
+        <rect
+           stroke-width="1.20254"
+           id="rect1021"
+           width="5.5320301"
+           height="8.6499996"
+           y="-14.9916"
+           gorn="0.3.4.0.0.0.0.0.0"
+           x="-54.213699" />
+      </g>
+      <g
+         transform="rotate(180,0,-0.06803573)"
+         id="g483">
+        <rect
+           stroke-width="1.20254"
+           fill="#ffcc00"
+           id="rect437-3-5"
+           width="21.5853"
+           height="11.964"
+           y="-16.782801"
+           gorn="0.3.5.0.0.0.0.0.0"
+           x="-21.6355" />
+      </g>
+      <path
+         stroke-width="0.786082"
+         fill="none"
+         id="path29786"
+         d="m 10.8007,24.224729 c 5.66491,0 10.3355,0.823195 10.4315,1.83905 0.09669,1.01586 -4.41788,1.83905 -10.0828,1.83905 -5.66491,0 -10.3355,-0.823196 -10.4315,-1.83905 -0.0959251,-1.01586 4.41788,-1.83905 10.0828,-1.83905 z"
+         gorn="0.3.6"
+         stroke="#7b7b7b" />
+      <g
+         transform="matrix(-1,1.4716094e-6,-4.6738295e-6,-1,1.4060717,-0.04535715)"
+         id="g499"
+         style="fill:#808080;fill-opacity:1;stroke:#7b7b7b;stroke-width:1.13386;stroke-dasharray:none;stroke-opacity:1">
+        <ellipse
+           ry="2.5464799"
+           stroke-width="1"
+           fill="999999ff"
+           id="path18402-5-4-7"
+           rx="5.3344998"
+           cy="-25.4289"
+           gorn="0.3.7.0.0.0.0.0.0"
+           cx="-46.8517"
+           stroke="#7b7b7b"
+           style="fill:#808080;fill-opacity:1;stroke:#7b7b7b;stroke-width:1.13386;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         transform="rotate(180,0,-0.06803573)"
+         id="g514">
+        <rect
+           stroke-width="0.570284"
+           fill="#ffcc00"
+           id="rect435-3"
+           width="10.8814"
+           height="2.7019801"
+           y="-28.7801"
+           gorn="0.3.8.0.0.0.0.0.0"
+           x="-48.653" />
+      </g>
+      <g
+         transform="rotate(180,0,-0.06803573)"
+         id="g529">
+        <rect
+           stroke-width="0.570134"
+           fill="#ffcc00"
+           id="rect435-3-2"
+           width="21.631901"
+           height="2.7014101"
+           y="-28.701799"
+           gorn="0.3.9.0.0.0.0.0.0"
+           x="-21.631901" />
+      </g>
+      <g
+         transform="rotate(180,0,-0.06803573)"
+         id="g544">
+        <rect
+           stroke-width="0.570284"
+           fill="#ff0000"
+           id="rect1041"
+           width="5.5271101"
+           height="8.0362997"
+           y="-28.9531"
+           gorn="0.3.10.0.0.0.0.0.0"
+           x="-54.212101" />
+      </g>
+      <rect
+         stroke-width="0.646654"
+         fill="#a9393e"
+         id="rect408"
+         width="16.2516"
+         height="32.3148"
+         y="-0.27214289"
+         gorn="0.3.11"
+         x="21.573299" />
+      <rect
+         stroke-width="0.645657"
+         fill="#711f25"
+         id="rect1621"
+         width="16.2544"
+         height="1.15316"
+         y="-0.27214289"
+         gorn="0.3.12"
+         x="21.573299" />
+      <rect
+         stroke-width="0.648658"
+         fill="#711f25"
+         id="rect1621-1"
+         width="16.2463"
+         height="1.15616"
+         y="30.880556"
+         gorn="0.3.13"
+         x="21.573799" />
+      <rect
+         stroke-width="0.646654"
+         fill="#711f25"
+         id="rect1621-3"
+         width="16.2516"
+         height="1.49911"
+         y="9.7603579"
+         gorn="0.3.14"
+         x="21.573799" />
+      <g
+         transform="rotate(-90,-0.06803573,-0.06803573)"
+         id="g563">
+        <image
+           id="image2546"
+           opacity="0.25"
+           width="448.81702"
+           height="226.63626"
+           y="299.68393"
+           x="-448.81702"
+           href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAArAAAAABCAYAAAAmTZ1PAAAABHNCSVQICAgIfAhkiAAAAUhJREFU SIntlVuO3CAURM8F/J7umelRsq3sfx/GBmy4+TDt9KwgSuSSjqrqE6HSlV8/fupgLE4EJ4IARgRT XUS+uTGG2zRyfxu5TRP3aeT2NnKfJj7f73w93vl6fNB/fsDjhb6HZT3w65/80sPs8fPC7Bf8vOCr z35h8SuXLl26dOnfljGCMRZjDMYebmtvu+6ka9sziwi5KFkLuRRKOTxtG34NLGFlWSshEFMi7jtx 24jbRtp39lIoqt9QQFFUoaBkVQCsCAZBBISXu/iCFaFtGjrn6JrmZOx7xmE46AfGoadv2/pOgxWD NcctFYWYIilWUjpzzplScn1rpuRSu/7V/7v0/8tag7UOa+2Be2Z3duccrmlwrsE1DlvduYZcMmuM rCEQYmSNkRDC4TES6i5jSjUnYtrIz10+N4pS9Njo07MquyqxFH4DXdHjiIVU1xMAAAAASUVORK5C YII=" />
+      </g>
+      <g
+         transform="matrix(0,-0.98629542,1.013895,0,0,-0.13607145)"
+         id="g578">
+        <text
+           stroke-width="0.739706"
+           id="text568"
+           font-family="OCRA"
+           y="28.8543"
+           font-size="6px"
+           gorn="0.3.16.0.0.0.0.0.0"
+           x="-31.5651"
+           style="-inkscape-font-specification:'OCRA, Normal';font-family:OCRA;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.739706">T-PLUG</text>
+      </g>
+      <g
+         transform="matrix(0,-0.98629542,1.013895,0,0,-0.13607145)"
+         id="g593">
+        <text
+           stroke-width="0.739706"
+           id="text570"
+           font-family="OCRA"
+           y="35.374161"
+           font-size="6px"
+           gorn="0.3.17.0.0.0.0.0.0"
+           x="-28.714426"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.739706">MALE</text>
+      </g>
+      <rect
+         stroke-width="0.793518"
+         fill="none"
+         id="connector0pin"
+         width="5.6692948"
+         height="5.6692948"
+         y="7.7862682"
+         gorn="0.3.18"
+         x="48.472469" />
+      <rect
+         stroke-width="0.793517"
+         fill="none"
+         id="connector1pin"
+         width="5.6692948"
+         height="5.6692948"
+         y="22.201128"
+         gorn="0.3.19"
+         x="48.472469" />
+      <rect
+         stroke-width="0.771478"
+         fill="none"
+         id="connector2pin"
+         width="12.528"
+         height="5.6692948"
+         y="7.7862682"
+         gorn="0.3.20"
+         x="5.4000001" />
+      <rect
+         stroke-width="0.771476"
+         fill="none"
+         id="connector3pin"
+         width="12.528"
+         height="5.6692948"
+         y="22.201128"
+         gorn="0.3.21"
+         x="5.4000001" />
+    </g>
+  </g>
+</svg>

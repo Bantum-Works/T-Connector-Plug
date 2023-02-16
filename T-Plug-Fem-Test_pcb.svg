@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (https://fritzing.org/) -->
+
+<svg
+   y="0in"
+   viewBox="0 0 21.401121 32.203348"
+   version="1.2"
+   x="0in"
+   width="7.54984mm"
+   height="11.360637mm"
+   id="svg3856"
+   sodipodi:docname="T-Plug-Fem-Test_pcb.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3860" />
+  <sodipodi:namedview
+     id="namedview3858"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="13.639109"
+     inkscape:cx="14.773692"
+     inkscape:cy="20.932452"
+     inkscape:window-width="1920"
+     inkscape:window-height="1121"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g3854">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3979"
+       originx="3.4970138"
+       originy="2.5744071" />
+  </sodipodi:namedview>
+  <g
+     partID="855920531"
+     id="g3854"
+     transform="translate(3.4970088,2.5744115)"
+     inkscape:label="silkscreen">
+    <path
+       id="polyline3193-9"
+       sodipodi:nodetypes="ccccccccccccccccccssccccccsscccccc"
+       d="m -0.08519886,9.9509088 c 0.00539,0.3584342 -0.085385,0.7109792 -0.5105132,0.8839412 -1.27538434,0.550531 -0.44490154,0.214177 -1.81376014,0.74042 -0.8349767,0.33709 -1.0605732,0.834629 -1.0803466,1.737707 l -0.00719,14.703895 c 0.00629,1.082663 0.4565857,1.577994 1.4901953,1.580938 11.356223,-7.36e-4 6.944957,0.05078 18.3829705,0.02282 0.932046,0 1.527945,-0.501219 1.527945,-1.653066 V 13.250416 c -0.02157,-0.497539 -0.15639,-1.219559 -1.050687,-1.618473 -0.697461,-0.347394 -0.860143,-0.453379 -1.66456,-0.894247 -0.559947,-0.275264 -0.683082,-0.570402 -0.690272,-1.0127408 -0.01168,-1.862091 0.0099,-8.3624817 -0.0072,-10.8347197 -0.01348,-0.92663 -0.429622,-1.452873 -1.414697,-1.448457 -4.9775045,-0.02502 -6.5360085,-0.0081 -11.703157,-0.01619 -0.96979526,0.01325 -1.43986296,0.667556 -1.40660766,1.427848 0.035952,6.103685 -0.035053,5.952804 -0.05213,11.0974743 z m 0.8916006,-11.1394263 c -0.025166,-0.375362 0.1734667,-0.577763 0.55635146,-0.577763 2.5597563,0 10.4691178,-0.0015 11.6968658,-0.0015 0.408051,0 0.55006,0.195041 0.548262,0.650628 l 0.01258,11.0003203 c 0.01168,0.7956202 0.319071,1.2512082 1.133376,1.7259312 l 1.586366,0.828004 c 0.419735,0.198722 0.606684,0.331202 0.63185,0.810341 0,0 0.0027,13.524817 0.05393,14.729656 0.01348,0.526243 -0.187847,0.71466 -0.665105,0.71466 -2.396177,0 -14.4498623,-0.03018 -18.3263475,-0.03018 -0.6687004,0 -0.683081,-0.649892 -0.683081,-0.649892 l 0.051231,-14.685495 c -0.019773,-0.431299 0.1123488,-0.732325 0.5464648,-0.914118 l 1.76702314,-0.704324 c 0.8125069,-0.335618 1.07046,-0.757348 1.0812454,-1.7715622 z"
+       style="stroke-width:0.813335" />
+    <rect
+       style="fill:#000000;stroke-width:2.5;stroke-dasharray:none"
+       id="rect5762"
+       width="11.338577"
+       height="2.5"
+       x="1.5486578"
+       y="20.135628" />
+    <rect
+       style="fill:#000000;stroke-width:2;stroke-dasharray:none"
+       id="rect5765"
+       width="2.5"
+       height="11.338577"
+       x="5.741097"
+       y="1.3164243" />
+  </g>
+  <g
+     partID="855920530"
+     id="g3837"
+     transform="translate(3.4970088,2.5744115)"
+     inkscape:label="copper0">
+    <circle
+       cy="6.8629498"
+       fill="none"
+       r="4.3200002"
+       id="connector0pin"
+       cx="7.0886502"
+       stroke="#f7bd13"
+       stroke-width="1.44" />
+    <circle
+       cy="21.230101"
+       fill="none"
+       r="4.3200002"
+       id="connector1pin"
+       cx="7.0886502"
+       stroke="#f7bd13"
+       stroke-width="1.44" />
+    <circle
+       cy="6.8629498"
+       fill="none"
+       r="4.3200002"
+       id="connector2pin"
+       cx="7.0886502"
+       stroke="#f7bd13"
+       stroke-width="1.44" />
+    <circle
+       cy="21.230101"
+       fill="none"
+       r="4.3200002"
+       id="connector3pin"
+       cx="7.0886502"
+       stroke="#f7bd13"
+       stroke-width="1.44" />
+  </g>
+  <g
+     partID="855920532"
+     id="g3850"
+     transform="translate(3.4970088,2.5744115)"
+     inkscape:label="copper1">
+    <circle
+       cy="6.8629498"
+       fill="none"
+       r="4.3200002"
+       id="circle3839"
+       cx="7.0886502"
+       stroke="#f7bd13"
+       stroke-width="1.44" />
+    <circle
+       cy="21.230101"
+       fill="none"
+       r="4.3200002"
+       id="circle3841"
+       cx="7.0886502"
+       stroke="#f7bd13"
+       stroke-width="1.44" />
+    <circle
+       cy="6.8629498"
+       fill="none"
+       r="4.3200002"
+       id="circle3843"
+       cx="7.0886502"
+       stroke="#f7bd13"
+       stroke-width="1.44" />
+    <circle
+       cy="21.230101"
+       fill="none"
+       r="4.3200002"
+       id="circle3845"
+       cx="7.0886502"
+       stroke="#f7bd13"
+       stroke-width="1.44" />
+  </g>
+</svg>
